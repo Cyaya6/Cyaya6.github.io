@@ -8,7 +8,7 @@
       <link href="/2023/04/08/%E6%B5%8B%E8%AF%95/"/>
       <url>/2023/04/08/%E6%B5%8B%E8%AF%95/</url>
       
-        <content type="html"><![CDATA[<h1 id="c-学习"><a href="#c-学习" class="headerlink" title="c++学习"></a>c++学习</h1><h2 id="code7-类和对象"><a href="#code7-类和对象" class="headerlink" title="code7 类和对象"></a>code7 类和对象</h2><blockquote><p>c++面向对象的三大特性是 <code>封装 继承  多态</code></p></blockquote><p>c++认为万事万物皆为对象，对象有属性和行为</p><p>比如：<br>人可以作为对象 ，属性有姓名，年龄，身高，体重等，行为有走路，跑步，吃饭，唱歌</p><p>具有相同性质的对象我们可以h抽象为类，人属于人类，车属于车类。</p><div class="tip success"><p>success</p></div>]]></content>
+        <content type="html"><![CDATA[<h1 id="c-学习"><a href="#c-学习" class="headerlink" title="c++学习"></a>c++学习</h1><h2 id="code7-类和对象"><a href="#code7-类和对象" class="headerlink" title="code7 类和对象"></a>code7 类和对象</h2><blockquote><p>c++面向对象的三大特性是 <code>封装 继承  多态</code></p></blockquote><p>c++认为万事万物皆为对象，对象有属性和行为</p><p>比如：<br>人可以作为对象 ，属性有姓名，年龄，身高，体重等，行为有走路，跑步，吃饭，唱歌</p><p>具有相同性质的对象我们可以h抽象为类，人属于人类，车属于车类。</p>]]></content>
       
       
       

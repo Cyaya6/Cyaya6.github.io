@@ -4,19 +4,6 @@
   
     
     <entry>
-      <title>测试</title>
-      <link href="/2023/04/08/%E6%B5%8B%E8%AF%95/"/>
-      <url>/2023/04/08/%E6%B5%8B%E8%AF%95/</url>
-      
-        <content type="html"><![CDATA[<h1 id="c-学习"><a href="#c-学习" class="headerlink" title="c++学习"></a>c++学习</h1><h2 id="code7-类和对象"><a href="#code7-类和对象" class="headerlink" title="code7 类和对象"></a>code7 类和对象</h2><blockquote><p>c++面向对象的三大特性是 <code>封装 继承  多态</code></p></blockquote><p>c++认为万事万物皆为对象，对象有属性和行为</p><p>比如：<br>人可以作为对象 ，属性有姓名，年龄，身高，体重等，行为有走路，跑步，吃饭，唱歌</p><p>具有相同性质的对象我们可以h抽象为类，人属于人类，车属于车类。</p>]]></content>
-      
-      
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>c++学习</title>
       <link href="/2023/04/08/c++%E5%AD%A6%E4%B9%A0/"/>
       <url>/2023/04/08/c++%E5%AD%A6%E4%B9%A0/</url>
@@ -48,6 +35,19 @@
       <url>/2023/04/08/%E7%94%9F%E6%B4%BB/%E6%97%A5%E5%B8%B8/</url>
       
         <content type="html"><![CDATA[<h1 id="我的日常"><a href="#我的日常" class="headerlink" title="我的日常"></a>我的日常</h1><p>一个平平凡凡的大学生，目前大三，学习中</p><h2 id="学生"><a href="#学生" class="headerlink" title="学生"></a>学生</h2><h3 id="加油"><a href="#加油" class="headerlink" title="加油"></a>加油</h3>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>测试</title>
+      <link href="/2023/04/08/%E6%B5%8B%E8%AF%95/"/>
+      <url>/2023/04/08/%E6%B5%8B%E8%AF%95/</url>
+      
+        <content type="html"><![CDATA[<h1 id="c-学习"><a href="#c-学习" class="headerlink" title="c++学习"></a>c++学习</h1><h2 id="code7-类和对象"><a href="#code7-类和对象" class="headerlink" title="code7 类和对象"></a>code7 类和对象</h2><blockquote><p>c++面向对象的三大特性是 <code>封装 继承  多态</code></p></blockquote><p>c++认为万事万物皆为对象，对象有属性和行为</p><p>比如：<br>人可以作为对象 ，属性有姓名，年龄，身高，体重等，行为有走路，跑步，吃饭，唱歌</p><p>具有相同性质的对象我们可以h抽象为类，人属于人类，车属于车类。</p>]]></content>
       
       
       

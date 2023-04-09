@@ -1,0 +1,1 @@
+new Vue({data:function(){this.$notify({title:"你已被发现😜",message:"你好，转载或者使用要记住要遵循GPL协议！",position:"top-left",offset:50,showClose:!0,type:"warning",duration:5e3})}});
